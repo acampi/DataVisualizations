@@ -16,4 +16,4 @@ My #DataVisualizations graphics and code are shown below. Feedback is very welco
 ***
 ## 2022 
 * [Viz 01: Intendo Revenues](https://github.com/acampi/DataVisualizations/tree/main/2022/Viz_01)  
-[![name](https://github.com/acampi/DataVisualizations/tree/main/2022/Viz_01/intendo_revenues.png)](https://github.com/acampi/DataVisualizations/tree/main/2022/Viz_01/analysis.R)
+[![name](https://github.com/acampi/DataVisualizations/blob/main/2022/Viz_01/intendo_revenues.png)](https://github.com/acampi/DataVisualizations/tree/main/2022/Viz_01/analysis.R)
